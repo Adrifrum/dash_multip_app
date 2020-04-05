@@ -4,6 +4,7 @@ I walk through the steps of building a basic, multi-page, dash application.
 
 ## Application structure:
 
+![alt text](https://github.com/Adrifrum/dash_multip_app/blob/master/image/structure.png)
 
 
 ## Versioning
